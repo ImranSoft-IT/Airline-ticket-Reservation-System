@@ -1,0 +1,182 @@
+﻿@model AspNetCoreProject.Models.SelectedInfoModel
+@{
+    ViewData["Title"] = "IndexSingle";
+}
+
+@if (Model.countries != null)
+{
+    <h1 style="text-align:center; color:#468ce6">Country wise cost</h1>
+    <table class="table">
+        <tr style="background-color:#Fcbf29">
+            <th>
+                Country
+            </th>
+            <th>
+                Travel Cost
+            </th>
+            <th>
+                Options
+            </th>
+        </tr>
+
+        @foreach (var item in Model.countries)
+        {
+            <tr style="background-color:#212529; color:white; font-size:medium">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.travelCost)
+                </td>
+                <td>
+                    <button type="button" class="btn btn-primary">@Html.ActionLink("Edit", "Edit", new { id = item.CountryID }, new { @style = "color:white" })</button>
+                    <button type="button" class="btn btn-primary">@Html.ActionLink("Details", "Details", new { id = item.CountryID }, new { @style = "color:white" })</button>
+                    <button type="button" class="btn btn-primary">@Html.ActionLink("Delete", "Delete", new { id = item.CountryID }, new { @style = "color:white" })</button>
+
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+
+@if (Model.bookingFlights != null)
+{
+    <h1 style="text-align:center; color:#468ce6">Booking Flight</h1>
+    <table class="table">
+        <tr style="background-color:#Fcbf29">
+            <th>
+                From Place
+            </th>
+            <th>
+                Destination
+            </th>
+            <th>
+                Flight Date
+            </th>
+            <th>
+                Country
+            </th>
+            <th>
+                Flight Number
+            </th>
+            <th>
+                First Name
+            </th>
+            <th>Options</th>
+        </tr>
+
+        @foreach (var item in Model.bookingFlights)
+        {
+
+            <tr style="background-color:#082864; color:white; font-size:medium">
+                <td>
+                    @Html.DisplayFor(modelItem => item.FromPlace)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Destination)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FlightDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Country.Country1)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FlightInfo.FlightNunber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PassengerInfo.FirstName)
+                </td>
+                <td>
+                    <button type="button" class="btn btn-primary">@Html.ActionLink("Select", "IndexSingle", new { CountryId = item.CountryID }, new { @style = "color:white" })</button>
+                    <button type="button" class="btn btn-primary">@Html.ActionLink("Edit", "Edit", new { id = item.BookID }, new { @style = "color:white" })</button>
+                    <button type="button" class="btn btn-primary">@Html.ActionLink("Details", "Details", new { id = item.BookID }, new { @style = "color:white" })</button>
+                </td>
+            </tr>
+        }
+
+    </table>
+}
+
+<h1 style="text-align:center; font:bold; color:#468ce6">Passenger Information</h1>
+
+@if (Model != null)
+{
+    <table class="table">
+        <tr style="background-color:#Fcbf29">
+
+            <th>
+                First Name
+            </th>
+            <th>
+                Last Name
+            </th>
+            <th>
+                Date Of Birth
+            </th>
+            <th>
+                Age
+            </th>
+            <th>
+                Phone Number
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Passport No
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+
+
+        @if (Model.passengers != null)
+        {
+            foreach (var item in Model.passengers)
+            {
+                <tr style="background-color:#082864; color:white; font-size:medium">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateOfBirth)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Age)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.passportNo)
+                    </td>
+                    <td>
+                        <img src="@Url.Content(item.ImageUrl)" width="100" height="100" class="img-circle" />
+                        @*@Html.DisplayFor(modelItem => item.ImageUrl)*@
+                    </td>
+                    <td>
+
+                        <button type="button" class="btn btn-primary">@Html.ActionLink("Select", "IndexSingle", "PassengerInfoes", new { PassengerId = item.PassengerID }, new { @style = "color:white" })</button>
+                    </td>
+                </tr>
+            }
+        }
+    </table>
+}
+
+
+
+

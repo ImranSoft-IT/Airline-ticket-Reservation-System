@@ -1,0 +1,17 @@
+﻿@model ViewDropDown
+
+
+<h2><strong>Roll Mapping to user</strong></h2>
+<br />
+<form asp-controller="Account" asp-action="RollMappingToUserList">
+
+    <select name="UserName"
+            asp-items="@(new SelectList(Model.DropDownListValues, "Id", "Name"))">
+    </select>
+
+    <input type="submit" />
+
+</form>
+
+
+

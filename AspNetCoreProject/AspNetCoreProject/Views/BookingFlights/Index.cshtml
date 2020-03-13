@@ -1,0 +1,65 @@
+﻿@model IEnumerable<AspNetCoreProject.Models.BookingFlight>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Flight Booking Information</h2>
+
+<p>
+    <button type="button" class="btn btn-primary"><a asp-action="Create" style = "color:white">Create New</a></button>
+</p>
+<table class="table">
+    <thead>
+        <tr class="active">
+            <th>
+                @Html.DisplayNameFor(model => model.FromPlace)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightInfo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PassengerInfo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromPlace)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country.Country1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightInfo.FlightNunber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PassengerInfo.FirstName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.BookID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.BookID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.BookID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<AspNetCoreProject.Models.FlightInfo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Flight Information</h2>
+
+<p>
+    <button type="button" class="btn btn-primary"><a asp-action="Create" style="color:white">Create New</a></button>
+</p>
+<table class="table">
+    <thead>
+        <tr class="active">
+            <th>
+                @Html.DisplayNameFor(model => model.FlightNunber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TakeOff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Landing)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FlightNunber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TakeOff)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Landing)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.FlightID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.FlightID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.FlightID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AspNetCoreProject.Models.ApplicationRole>
+
+@{
+    ViewData["Title"] = "View_RollPermission";
+}
+
+<h2>View_RollPermission</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NormalizedName)
+            </th>
+
+            <th>Permission</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NormalizedName)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Permission", "Create", "MenuModelManages", new { RollName = item.Name }, null);
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

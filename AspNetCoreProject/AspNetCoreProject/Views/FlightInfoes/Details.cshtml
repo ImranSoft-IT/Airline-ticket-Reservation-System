@@ -1,0 +1,36 @@
+﻿@model AspNetCoreProject.Models.FlightInfo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+    <h2>Details FlightInfo</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FlightNunber)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FlightNunber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TakeOff)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TakeOff)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Landing)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Landing)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.FlightID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

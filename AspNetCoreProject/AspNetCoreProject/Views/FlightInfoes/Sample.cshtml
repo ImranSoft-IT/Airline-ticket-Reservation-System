@@ -1,0 +1,175 @@
+﻿
+@{
+    ViewData["Title"] = "Sample";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Multidata Insert</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+</head>
+<body>
+
+    <style>
+        body {
+            background-image: url('../../wwwroot/images/aroplane/airplane4.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+
+    <div>
+        <br />
+        <div class="w3-card-4">
+            <div class="w3-container w3-brown">
+                <h3>Multiple Data Insert to FlightInfo Table</h3>
+            </div>
+            <form class="w3-container" action="/action_page.php">
+                <p>
+                    <label class="w3-text-brown"><b>Flight Number :</b></label>
+                    <input class="w3-input w3-border w3-sand" type="text" id="FlightNunber">
+                </p>
+                <p>
+                    <label class="w3-text-brown"><b>Take Off :</b></label>
+                    <input class="w3-input w3-border w3-sand" type="text" id="TakeOff">
+                </p>
+                <p>
+                    <label class="w3-text-brown"><b>Landing :</b></label>
+                    <input class="w3-input w3-border w3-sand" type="text" id="Landing">
+                </p>
+                <p>
+                    <input type="button" class="w3-btn w3-brown" id="btnUpdateUserDetail" value="Add" onclick="AddValueToList();" />
+                    <input type="button" class="w3-btn w3-brown" id="btnUpdateUserDetailEdit" value="Save" onclick="EditValueToList();" />
+                </p>
+            </form>
+        </div>
+
+        <br />
+        <table id="infoTable" class="table">
+            <thead>
+                <tr class="info">
+                    <th>Flight ID</th>
+                    <th>Flight Nunber</th>
+                    <th>Take Off</th>
+                    <th>Landing</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <input type="button" id="btnUpdateUserDetail" value="Submit to Server" onclick="UpdateFlightInfo();" />
+    </div>
+</body>
+</html>
+
+<script lang="en" type="text/javascript">
+
+    var FlightId = 0;
+    var FlightInfoList = [];
+    function AddValueToList() {
+
+        var a = document.getElementById("FlightNunber").value;
+        var b = document.getElementById("TakeOff").value;
+        var c = document.getElementById("Landing").value;
+
+        if (a == "" || b == "" || c == "") {
+            alert("Input data can not empty");
+            return false;
+        }
+
+        FlightId = 0;
+        var FlightInfo = {};
+        FlightInfo["FlightID"] = FlightInfoList.length + 1;
+        FlightInfo["FlightNunber"] = document.getElementById("FlightNunber").value;
+        FlightInfo["TakeOff"] = document.getElementById("TakeOff").value;
+        FlightInfo["Landing"] = document.getElementById("Landing").value;
+        FlightInfoList.push(FlightInfo);
+        fillTable();
+
+    }
+
+    function EditValueToList() {
+        for (var i = FlightInfoList.length; i--;) {
+            if (FlightInfoList[i].FlightID === FlightId) {
+                FlightInfoList[i].FlightNunber = document.getElementById("FlightNunber").value;
+                FlightInfoList[i].TakeOff = document.getElementById("TakeOff").value;
+                FlightInfoList[i].Landing = document.getElementById("Landing").value;
+                break;
+            }
+        }
+
+        fillTable();
+    }
+
+    function fillTable() {
+
+        $('#infoTable > tbody').empty();
+
+        FlightInfoList.forEach(function (val) {
+            $('#infoTable > tbody:last-child').append('<tr><td>' + val.FlightID + '</td><td>' + val.FlightNunber + '</td><td>' + val.TakeOff + '</td><td>' + val.Landing + '</td><td><input type="button"  value="Delete" onclick="tempDelete(' + val.FlightID + ')" /><input type="button"  value="Edit" onclick="editPre(' + val.FlightID + ')" /></td></tr>');
+        })
+    }
+
+    function tempDelete(FlightID) {
+        remove(FlightInfoList, FlightID);
+        fillTable();
+    }
+
+    function editPre(FlightID) {
+        for (var i = FlightInfoList.length; i--;) {
+            if (FlightInfoList[i].FlightID === FlightID) {
+                FlightId = FlightID;
+                document.getElementById("FlightNunber").value = FlightInfoList[i].FlightNunber;
+                document.getElementById("TakeOff").value = FlightInfoList[i].TakeOff;
+                document.getElementById("Landing").value = FlightInfoList[i].Landing;
+                break;
+            }
+        }
+    }
+
+    function remove(arr, item) {
+        for (var i = arr.length; i--;) {
+            if (arr[i].FlightID === item) {
+                arr.splice(i, 1);
+            }
+        }
+
+        for (var i = 0; i < arr.length; i++) {
+            arr[i].FlightID = i + 1;
+        }
+
+    }
+
+    function UpdateFlightInfo() {
+        var flightJson = JSON.stringify(FlightInfoList);
+        var getReportColumnsParams = { "flightJson": flightJson };
+        $.ajax({
+            type: "POST",
+            traditional: true,
+            async: false,
+            cache: false,
+            url: '/FlightInfoes/insertFlightsInfo',
+            context: document.body,
+            data: getReportColumnsParams,
+            success: function (result) {
+                alert(result);
+            },
+            error: function (xhr) {
+                //debugger;
+                console.log(xhr.responseText);
+                alert("Error has occurred..");
+            }
+        });
+        FlightInfoList = [];
+        document.getElementById("FlightNunber").value = '';
+        document.getElementById("TakeOff").value = '';
+        document.getElementById("Landing").value = '';
+        fillTable();
+    }
+
+</script>

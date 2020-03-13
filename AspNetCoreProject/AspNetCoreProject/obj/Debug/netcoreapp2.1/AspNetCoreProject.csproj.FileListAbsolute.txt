@@ -1,0 +1,636 @@
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.cshtml.g.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CoreCompileInputs.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+D:\1249867\Project Module-09 Core\Test\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\IndexSingle.g.cshtml.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\IndexSingle.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\Enterprise Systems Analysis and Design C#\ASP.NET-CORE\Project Module-09\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CoreCompileInputs.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\IndexSingle.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\1249867\Project Module-09 Core\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CoreCompileInputs.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\IndexSingle.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+E:\Jahangir\Student\1249867-Imran\Final Project Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CoreCompileInputs.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\IndexSingle.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\1249867\Project Module-09 Core\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\BookingFlights\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Countries\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\FlightInfoes\Sample.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\View_RollPermission.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\PassengerInfoes\IndexSingle.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\Enterprise Systems Analysis and Design C#\Git-Hub\AirlinceProject Core\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete

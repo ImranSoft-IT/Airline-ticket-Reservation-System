@@ -1,0 +1,41 @@
+﻿@model IEnumerable<AspNetCoreProject.Models.Country>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Create Country</h2>
+
+<p>
+    <button type="button" class="btn btn-primary"><a asp-action="Create" style="color:white">Create New</a></button>
+</p>
+<table class="table">
+    <thead>
+        <tr class="active">
+            <th>
+                @Html.DisplayNameFor(model => model.Country1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.travelCost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.travelCost)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CountryID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CountryID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CountryID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

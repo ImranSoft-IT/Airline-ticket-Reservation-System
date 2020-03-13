@@ -1,0 +1,57 @@
+﻿@model AspNetCoreProject.Models.BookingFlight
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>BookingFlight</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FromPlace)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FromPlace)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Destination)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Destination)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FlightDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FlightDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Country)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Country.Country1)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FlightInfo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FlightInfo.FlightNunber)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PassengerInfo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PassengerInfo.PhoneNumber)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="BookID" />
+        <input type="submit" value="Delete" class="btn btn-default" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
